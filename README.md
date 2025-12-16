@@ -4,7 +4,7 @@
 PCOS is like popcorn all over the ovary, it is a change in the anatomy of the ovary which results in hormonal changes. Having PCOS means that the power of insulin (a hormone responsible for processing carbs, sugars and some proteins) drops. This results in the body trying to produce more insulin which results in increased testosterone levels. The ovary’s environment has changed and there is a lot of testosterone in it that is not able to ovulate the eggs properly. Increased insulin levels also lead to other complications like type 2 diabetes, cardiovascular diseases, ovarian cancers and even autoimmune conditions. (American Medical Association, 2025)
 
 ![PCOS image](https://my.clevelandclinic.org/-/scassets/images/org/health/articles/8316-polycystic-ovary-syndrome-pcos) 
-(Polycystic Ovary Syndrome (PCOS), 2025)
+
 
 ### What decision can this project help us to make?
 There are two cases. First, if features like skin darkening, hair growth, etc., (non-invasive parameters) dominate the feature importance graphs, then this application could serve as a firsthand screening process to women who want to know about their body and make a decision to visit a healthcare provider or not. (Note: again, this depends on the data quality and diversity)
