@@ -1,17 +1,20 @@
-# Creating venv:
+# PCOS Detection using Machine learning models and XAI for clinical interpretability and Trust
+
+# Environment set up:
+## Creating venv:
 
 conda create --name pcosvenv python=3.10
 
-# Activation of venv:
+## Activation of venv:
 
 conda activate pcosvenv
 
-# Git commangds:
+### Git commangds:
 
 git init
 git add README.md
 
-# create a repo in github as well
+#### create a repo in github as well
 
 git commit -m "readme file"
 git status
