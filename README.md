@@ -35,9 +35,12 @@ Source of data: The dataset we used for this project had been obtained from kagg
 ### Main Challange I faced with this data:
 Data quality issues and then the main thing is that there is nobody to enquire and validate the data, especially the outliers, because in medical data, outliers can be important.
 
-#### Author: 
+#### Authors for PART I PCOS: 
 1. Nandhika Rajmanikandan
 2. Kavya Pachchava
+
+#### Author for PART II PCOS:
+1. Nandhika Rajmanikandan
 
 #### Environment set up:
 #### Creating venv:
