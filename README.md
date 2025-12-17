@@ -37,7 +37,7 @@ Data quality issues and then the main thing is that there is nobody to enquire a
 
 #### Author: 
 1. Nandhika Rajmanikandan
-2. 2. Kavya Pachchava
+2. Kavya Pachchava
 
 #### Environment set up:
 #### Creating venv:
