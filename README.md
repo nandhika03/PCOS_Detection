@@ -24,7 +24,7 @@ However further study on methods and order of pre-processing steps is required t
 Can be deployed as a first hand screening tool on cloud streamlit or healthcare facilities.
 
 ### Part II of the PCOS Detection & Raw FlowChart of clean thought-through pipeline:
-This time, I do not claim to do it the perfect way, but I believe it could be a step in the right direction. I do not want to overclean my data or dismiss important medical information as anomalies. 
+This time, I do not claim to do it the perfect way, but I believe it could be a step in the right direction. I do not want to overclean my data or dismiss important medical information as anomalies. The rough report of th part II can be found [here]([url](https://docs.google.com/document/d/1n2fAzg-CMG7fx4GpJBu5E0ngXmNPi4VS9ETC5Uwic80/edit?tab=t.d0a5tre5drgk))
 
 <img width="1920" height="1080" alt="PCOS_ProjectFlowchart" src="https://github.com/user-attachments/assets/820c78fc-1a59-4779-89b8-e3e292927eed" />
 
