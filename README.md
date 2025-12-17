@@ -35,6 +35,10 @@ Source of data: The dataset we used for this project had been obtained from kagg
 ### Main Challange I faced with this data:
 Data quality issues and then the main thing is that there is nobody to enquire and validate the data, especially the outliers, because in medical data, outliers can be important.
 
+#### Author: 
+1. Nandhika Rajmanikandan
+2. 2. Kavya Pachchava
+
 #### Environment set up:
 #### Creating venv:
 
